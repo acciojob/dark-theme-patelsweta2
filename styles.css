@@ -1,9 +1,23 @@
 #app{
   height:90vh;
 }
+
+.day {
+	background-color: #fff;
+    color: #000;
+}
+#app {
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+}
 .night{
   background-color: black;
   color:white;
+}
+
+#ptag{
+	color: aqua;
 }
 
 #swap{
